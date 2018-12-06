@@ -6,4 +6,4 @@ layout: default
 
 Welcome to Miami bienvenidos a Miami.
 
-<big><a href="{{ site.baseurl }}/start" class="btndrk"><b>START!</b></a></big>
+<big><center><a href="{{ site.baseurl }}/start" class="btndrk"><b>START!</b></a></center></big>
