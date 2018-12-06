@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
-site:
-    title: The Future of the Workforce
+site.title: The Future of the Workforce
