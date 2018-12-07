@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Title
+# And now burnt.
 
 Text

@@ -2,6 +2,8 @@
 layout: default
 ---
 
-# Title
+# It is a robot's world
 
-Drama
+Turns out your engineers had not watched "Age of Ultron". In a shy couple of months, JARVIS grows so much it gets out of their control, it spreads all over the world, identifies humans as parasites and gets rid of us. 
+
+Congratulations! You have just destroyed humanity. 

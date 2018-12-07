@@ -9,7 +9,11 @@ Agarwal, D., Bersin, J., Gaurav, L., Schwartz, J., Volini, E. (2018). The rise o
 
 Bowles, N. (2017, September 25). For Cities Wooing Amazon's New Headquarters, Nothing Is Too Strange. Retrieved on December 3, 2018 from: [Link](https://www.nytimes.com/2017/09/25/technology/wooing-amazon-second-headquarters.html) 
 
+Embury-Denis, T. (2018, May 10). Costa Rica to ban fossil fuels and become world's first decarbonised society. Retrieved on December 3, 2018 from: [Link](https://www.independent.co.uk/environment/costa-rica-fossil-fuels-ban-president-carlos-alvarado-climate-change-global-warming-a8344541.html)
+
 Frost, N. (2018, October 10). Six bold predictions from the past about how we'd work in the future. Retrieved on December 3, 2018 from: [Link](https://qz.com/1383660/six-bold-predictions-from-the-past-about-how-wed-work-in-the-future/)
+
+Graham-McLay, C. (2018, July 19). A 4 day workweek? A test run shows a surprising result. Retrieved on December 5, 2018 from: [Link](https://www.nytimes.com/2018/07/19/world/asia/four-day-workweek-new-zealand.html)
 
 Helman, c. (2017, April 18). What America's Biggest Companies Pay in Taxes. Last retrieved on December 5, 2018 from: [Forbes](https://www.forbes.com/sites/christopherhelman/2017/04/18/what-americas-biggest-companies-pay-in-taxes/#1a61677f2f51)
 
