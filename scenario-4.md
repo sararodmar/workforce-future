@@ -13,4 +13,4 @@ They can have this new system up and running in about 6 months. "Unfortunately",
 1. [In the next 7 months, I lay off the majority of my workforce. They are no longer my problem.](./scenario-6)
 2. [I will speak with my Chief of Human Resources, maybe we can find ways to relocate them?](./scenario-7)
 3. [Hm, I'm a CEO now but I was also a worker once. Even back then the long schedules we have now seemed unproductive. Over the years I've devised a schedule decrease without changing the salary. I've always wanted to put it into practice...](./scenario-8)
-4. [Wait, wait. What about the implications of using AI?](./scenario-9)
+4. [Wait, wait. What about the implications of using AI?](./scenario-9) 
