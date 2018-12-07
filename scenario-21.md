@@ -4,4 +4,4 @@ layout: default
 
 # And now burnt.
 
-Text
+put here actual foreseen consequences of climate change

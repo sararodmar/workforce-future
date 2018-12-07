@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Title
+# Progress delayed 
 
-Text
+Luddite outcome
 
 1. [text](./scenario-25)

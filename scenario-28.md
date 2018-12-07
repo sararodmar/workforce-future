@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Time for the machine
+# Time of the machine
 
 Your advisors tell you Artificial Intelligence and automatization of tasks is something you should regulate and invest in. What do you do?
 
