@@ -10,3 +10,5 @@ In addition to reskilling, other proactive strategies by organizations are the d
 
 
 That being said, age discrimination is already becoming a main-stream diversity issue and liability concern: during 2016, there were over 21,000 age discrimination complaints filed with the US Equal Employment Commission. (REF. MIT REVIEW)[#](https://sararodrig.github.io/workforce-future/references)
+
+<small><center>Click HOME to restart the game</center></small>

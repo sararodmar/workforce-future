@@ -13,6 +13,8 @@ Embury-Denis, T. (2018, May 10). Costa Rica to ban fossil fuels and become world
 
 Frost, N. (2018, October 10). Six bold predictions from the past about how we'd work in the future. Retrieved on December 3, 2018 from: [Link](https://qz.com/1383660/six-bold-predictions-from-the-past-about-how-wed-work-in-the-future/)
 
+Global Climate Change (n.d.). How climate is changing. NASA. Retrieved on December 7, 2018 from: [Link](https://climate.nasa.gov/effects/) 
+
 Graham-McLay, C. (2018, July 19). A 4 day workweek? A test run shows a surprising result. Retrieved on December 5, 2018 from: [Link](https://www.nytimes.com/2018/07/19/world/asia/four-day-workweek-new-zealand.html)
 
 Helman, c. (2017, April 18). What America's Biggest Companies Pay in Taxes. Last retrieved on December 5, 2018 from: [Forbes](https://www.forbes.com/sites/christopherhelman/2017/04/18/what-americas-biggest-companies-pay-in-taxes/#1a61677f2f51)
@@ -32,6 +34,8 @@ Simonetti, R., Braseth, H. (2017). Five Predictions for the Future of Work. Retr
 Stephenson, N. (1993). Snow Crash [1992]. New York: Bantam-Random.
 
 Teich, A. (2009). Technology and the Future. Belmont, CA:Wadsworth/Thomson learning.  11th Edition
+
+Thompson, C. (2017, January). When Robots Take All of Our Jobs, Remember the Luddites. Retrieved on December 7, 2018 from: [Link](https://www.smithsonianmag.com/innovation/when-robots-take-jobs-remember-luddites-180961423/) 
 
 Volti, R. (2014). Society and technological change. New York, NY: Worth Publishers.
 

@@ -6,7 +6,7 @@ layout: default
 
 You allow them to take over the world: countries are no longer countries, but very very large companies (think CosaNostra Pizza in Snow Crash[#](https://sararodrig.github.io/workforce-future/references)). 
 
-You are now CEO of United States of America by Google and run all operations in this newly expanded company. Your team of advisors tell you your engineers have devised a way through Artificial Intelligence (AI) to increase productivity by 50%. 
+You are now CEO of United States of America by Google and run all operations in this newly expanded company. Your engineers tell you they have devised a way through Artificial Intelligence (AI) to increase productivity by 50%. 
 
 They can have this new system up and running in about 6 months. "Unfortunately", a lot of your existing jobs are going to become obsolete. What do you do with your workers?
 

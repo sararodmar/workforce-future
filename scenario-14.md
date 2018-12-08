@@ -10,3 +10,4 @@ Fortunately, that's why there are scientists, advisors and reports, such as the 
 
 Through the help of other experts, you will find the investment options that will suit you (and your company) best. 
 
+<small><center>Click HOME to restart the game</center></small>

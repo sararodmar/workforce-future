@@ -11,3 +11,5 @@ Unfortunately, having to send so many people into early retirement depleats your
 Also, seeing the value that older workers have (such as many more years of expertise, in-depth knowledge of the field), other companies hire these workers like crazy and either create new positions for them (such as mentors or coachers) or adapt their work systems for them. BMW for example, for very little money were able to increase productivity by 7% in 3 months, only by cushioning the floors and providing adjustable benches to assembly lines staffed with older workers (REFERENCE MIT REVIEW)[#](https://sararodrig.github.io/workforce-future/references). 
 
 The other companies progress much more and you are now left at the end of the line.
+
+<small><center>Click HOME to restart the game</center></small>
