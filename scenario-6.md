@@ -8,5 +8,5 @@ You lay off 150 million "obsolete" workers from your company. Other (much wiser)
 
 Your company's shares and power plummet. Because no one has money, ex-workers cannot provide you with revenue, and with so much money invested in military to control the mobs, you no longer make profits. You declare bankrupcy, other companies buy you out and divide you into pieces. You are no longer the supreme leader (and you're actually probably in another company's jail).  
 
-<small><center>Click HOME to restart the game</center></small>
 
+<small><center>Click <a href="{{ site.baseurl }}"><b>HOME</b></a> to restart the game</center></small>
