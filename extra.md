@@ -10,7 +10,7 @@ Below are a couple of infographics from the World Economic Forum about the predi
 
 ![Declining and growing skills](./assets/images/skills.png "Declining and Growing Skills according to World Economic Forum")
 
-![Automation rates](./assets/images/rates.png "Rates of Automation until 2025")
+![Automation rates](./assets/images/rate.png "Rates of Automation until 2025")
 
 
 Additional and recommended resources can be found in the [References](./references). 
