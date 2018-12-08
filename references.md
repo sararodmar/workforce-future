@@ -5,9 +5,9 @@ layout: default
 # References
 
 
-1. Agarwal, D., Bersin, J., Gaurav, L., Schwartz, J., Volini, E. (2018). The rise of the social enterprise: 2018 Deloitte Global Human Capital Trends. Deloitte Insights.
+1. Agarwal, D., Bersin, J., Gaurav, L., Schwartz, J., Volini, E. (2018). *The rise of the social enterprise: 2018 Deloitte Global Human Capital Trends*. Deloitte Insights.
 
-2. Bowles, N. (2017, September 25). For Cities Wooing Amazon's New Headquarters, Nothing Is Too Strange. Retrieved on December 3, 2018 from: [Link](https://www.nytimes.com/2017/09/25/technology/wooing-amazon-second-headquarters.html) 
+2. Bowles, N. (2017, September 25). *For Cities Wooing Amazon's New Headquarters, Nothing Is Too Strange*. Retrieved on December 3, 2018 from: [Link](https://www.nytimes.com/2017/09/25/technology/wooing-amazon-second-headquarters.html) 
 
 3. Embury-Denis, T. (2018, May 10). Costa Rica to ban fossil fuels and become world's first decarbonised society. Retrieved on December 3, 2018 from: [Link](https://www.independent.co.uk/environment/costa-rica-fossil-fuels-ban-president-carlos-alvarado-climate-change-global-warming-a8344541.html)
 
