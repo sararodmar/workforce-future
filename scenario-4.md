@@ -4,7 +4,7 @@ layout: default
 
 # You like companies so much...
 
-You allow them to take over the world: countries are no longer countries, but very very large companies (put snowcrash reference?)[#](https://sararodrig.github.io/workforce-future/references). 
+You allow them to take over the world: countries are no longer countries, but very very large companies (think CosaNostra Pizza in Snow Crash[#](https://sararodrig.github.io/workforce-future/references)). 
 
 You are now CEO of United States of America by Google and run all operations in this newly expanded company. Your team of advisors tell you your engineers have devised a way through Artificial Intelligence (AI) to increase productivity by 50%. 
 

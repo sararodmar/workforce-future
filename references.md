@@ -29,6 +29,8 @@ PwC Financial Services (2012). Millennials at work. Retrieved on December 3, 201
 
 Simonetti, R., Braseth, H. (2017). Five Predictions for the Future of Work. Retrieved on December 3, 2018 from: [Link](https://convene.com/catalyst/5-predictions-future-of-work/) 
 
+Stephenson, N. (1993). Snow Crash [1992]. New York: Bantam-Random.
+
 Teich, A. (2009). Technology and the Future. Belmont, CA:Wadsworth/Thomson learning.  11th Edition
 
 Volti, R. (2014). Society and technological change. New York, NY: Worth Publishers.
