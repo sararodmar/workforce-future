@@ -9,8 +9,8 @@ and huricanes became stronger and more intense, destroying many cities. Droughts
 
 The pollution in the air and water has decreased their quality. Now drinking water is scarce and people have to wear masks everywhere. 
 
-Sea level rising up to 4 feet only added to aforementioned floods; animals (including humans) have been forced to relocate to livable areas REF NASA [#](https://sararodrig.github.io/workforce-future/references). 
+Sea level rising up to 4 feet only added to aforementioned floods; animals (including humans) have been forced to relocate to livable areas [5](https://sararodrig.github.io/workforce-future/references). 
 
 Thank you, next. 
 
-<small><center>Click HOME to restart the game</center></small>
+<small><center>Click <a href="{{ site.baseurl }}"><b>HOME</b></a> to restart the game</center></small>

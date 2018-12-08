@@ -4,7 +4,7 @@ layout: default
 
 # Did you know...  
 
-that U.S. companies have "stashed an estimated $2 trillion in cash overseas" by moving their operations there? (INSER REF HERE)[#](https://sararodrig.github.io/workforce-future/references) To countries with lower-taxes such as Ireland (15%). 
+that U.S. companies have "stashed an estimated $2 trillion in cash overseas" by moving their operations there? [7](https://sararodrig.github.io/workforce-future/references) To countries with lower-taxes such as Ireland (15%). 
 
 It seems that this tendency will keep on happening, unless a plan is set for companies to compromise (providing liveable salaries and good working conditions), and governments to facilitate this happening. But other components are at stake... 
 

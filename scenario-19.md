@@ -8,4 +8,4 @@ Turns out your engineers had not watched "Age of Ultron". In a shy couple of mon
 
 Congratulations! You have just destroyed humanity. 
 
-<small><center>Click HOME to restart the game</center></small>
+<small><center>Click <a href="{{ site.baseurl }}"><b>HOME</b></a> to restart the game</center></small>
